@@ -1,0 +1,234 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,2,1,0.75),rgba(0,2,1,0.75)),url(1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#container{
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo{                                               
+    width: 100px;
+    height: 110px;
+    margin-top: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    float: left;
+    background-image: url("logo3.png");
+ }
+
+#socials{
+    width: 8%
+    height: 55px;
+    margin-top: 5px
+    margin-bottom: 5px;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-align: center;
+    float: bottom;
+    font-size: 100%;
+}
+#content{
+    width: 1200px;
+    height: 100px;
+    margin-top:100px;
+    float: left;
+}
+.content1{
+    width: 63%;
+    padding: 2%;
+    background: navajowhite;
+    text-align: justify;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 5px;
+    font-size: 20px;
+}
+.content2{
+    width: 63%;
+    padding: 2%;
+    background: ;
+    text-align: justify;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -40px;
+    font-size: 18px;    
+}
+.contact-form{
+    width: 75%;
+    height: 50px;
+    margin-top: -20px; 
+    font-family: cursive;  
+}
+.footer{
+    width: 40%;
+    float: left;
+    margin-top: 250px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+  #header{
+    background-color: black;
+    height: 53px;
+}
+#subheader p{
+    float: left;
+    margin-top: 5px;
+    margin-left: 50px;
+    color: black;
+}
+#subheader a{
+    float: right;
+    color: white;
+    margin-top: 5px;
+    
+
+   text-decoration: none;
+   margin-left: 30px;
+}
+.container{
+    margin-left: -10px;
+}
+#href{
+    margin-right:40px;
+}
+
+#main-header{
+    width: 100%;
+    height: 100px;
+    background:linear-gradient(rgba(0,2,1,0.75),rgba(0,2,1,0.75));;
+    float: left;
+    margin-top: -15px;
+}
+#logo{
+    width: 250px;
+    margin-top: 10px;
+    float: left;
+}
+#ist{
+    color: black;
+    font-size: 45px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: cursive;
+}
+#iist{
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+#search{
+    width: 650px;
+    float: left;
+    padding:20px;
+    margin-left: 50px;
+
+}
+
+.search-area{
+    margin-left: -150px;
+    margin-top: 20px;
+    width: 650px;
+    height: 30px;
+    background: whitesmoke;
+    border: none;
+    border-radius: 10px;
+    float:left;
+    padding-left: 15px;
+}
+.search-btn{
+     margin-top: 20px;
+    width: 97px;
+    height: 32px;
+    border-radius: 10px;
+    color: black;
+    background: green;
+    border: none;
+    margin-left: -97.1px; 
+}
+.search-btn:hover{
+    background: greenyellow;
+}
+
+#user-menu
+{
+    width: 300px;
+    float: right;
+    margin-top: 20px;
+}
+#user-menu img{
+width: 90px;
+height: 80px;
+margin-top: -10px;
+margin-left: 170px;
+}
+
+#user-menu li
+{
+    width: 140px;
+    float: left;
+    text-align: center;
+    list-style: none;
+    font-size: 25px;
+    border-left: 1px solid black;
+
+}
+
+#user-menu li:hover{
+    font-size: 30px;
+    transition: all .5s ease;
+}
+#user-menu li a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+#navigation{
+    width: 100%;
+    height: 35px;
+    background: rgb(0, 150, 0);
+    float: left;
+    box-shadow: 10px 14px 50px 2px ;  /* position, lenght, blurriness,.....*/
+
+}
+nav{
+    width: 1280px;
+    margin: 0 auto;
+    margin-top: 9px;
+}
+nav a
+{
+    margin-left: 35px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+nav a:hover{
+    color: black;
+    transition: all .7s ease;
+}
+
+#banner{
+    text-align: center;
+    margin: 50px;
+    margin-left: 360px;
+}
+
+#special {
+border: 2px strong black;
+padding: 
+
+
+}
